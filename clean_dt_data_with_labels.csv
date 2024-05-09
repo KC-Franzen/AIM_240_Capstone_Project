@@ -1,0 +1,155 @@
+sentence,label
+unless flown airplane probably never traveled faster 150 mph,1
+imagine traveling train like one shown goes 300 mph,1
+despite high speed people riding train may notice moving unless look window,1
+motion even motion 300 mph relative observer,1
+chapter learn important identify reference frame order clearly describe motion,1
+motion describe one-dimensional,1
+within context learn difference distance displacement well difference speed velocity,1
+look graphing problem-solving techniques,1
+study physics opens kinematics—the study motion without considering causes,1
+objects motion everywhere look,1
+everything tennis game space-probe flyby planet neptune involves motion,1
+resting heart moves blood veins,1
+even inanimate objects atoms always moving,1
+know something moving,1
+location object particular time position,1
+precisely need specify position relative convenient reference frame,1
+earth often used reference frame often describe position object relates stationary objects reference frame,1
+example rocket launch would described terms position rocket respect earth whole professor ’ position could described terms relation nearby white board,1
+cases use reference frames stationary motion relative earth,1
+describe position person airplane example use airplane earth reference frame,1
+thus know fast direction object 's position changing background something else either moving moving known speed direction,1
+reference frame coordinate system positions objects described,1
+classroom used reference frame,1
+classroom walls moving,1
+motion walk door measured stationary background classroom walls,1
+also tell things classroom moving classmates entering classroom book falling desk,1
+also tell direction something moving classroom,1
+might say “ teacher moving toward door. ” reference frame allows determine something moving also direction motion,1
+could also serve reference frame others ’ movement,1
+remained seated classmates left room would measure movement away stationary location,1
+classmates left room together perspective motion would change,1
+reference frame would moving direction moving classmates,1
+learn snap lab description motion quite different viewed different reference frames,1
+idea description motion depends reference frame observer known hundreds years,1
+17th-century astronomergalileogalilei one first scientists explore idea,1
+galileo suggested following thought experiment imagine windowless ship moving constant speed direction along perfectly calm sea,1
+way person inside ship determine whether ship moving,1
+extend thought experiment also imagining person standing shore,1
+person shore determine whether ship moving,1
+galileo came amazing conclusion,1
+looking person ship person shore describe motion one relative,1
+addition descriptions motion would identical,1
+person inside ship would describe person land moving past ship,1
+person shore would describe ship person inside moving past,1
+galileo realized observers moving constant speed direction relative describe motion way,1
+galileo discovered description motion meaningful specify reference frame,1
+study motion objects must first able describe object ’ position,1
+parent drives school car sitting driveway,1
+driveway starting position car,1
+reach high school car changed position,1
+new position school,1
+physicists use variables represent terms,1
+use represent car ’ position,1
+use subscript differentiate initial position d0 final position df,1
+addition vectors discuss later bold arrow variable,1
+scalars italicized,1
+imagine driving house friend 's house located several kilometers away,1
+far would drive,1
+distance object moves length path initial position final position,1
+distance drive friend 's house depends path,1
+distance different length straight line two points,1
+distance drive friend 's house probably longer straight line two houses,1
+often want precise talk position,1
+description object ’ motion often includes distance moves,1
+instance five kilometer drive school distance traveled 5 kilometers,1
+dropping school driving back home parent traveled total distance 10 kilometers,1
+car parent end starting position space,1
+net change position object displacement greek letter delta meanschange,1
+describing drive school distance traveled displacement same—5 kilometers,1
+describing entire round trip distance displacement different,1
+describe distance include magnitude size amount distance traveled,1
+however describe displacement take account magnitude change position direction movement,1
+previous example car travels total 10 kilometers drives five kilometers forward toward school five kilometers back opposite direction,1
+ascribe forward direction positive opposite direction negative – two quantities cancel added together,1
+quantity distance magnitude i.e. big much take account direction called scalar,1
+quantity displacement magnitude direction called vector,1
+hopefully understand conceptual difference distance displacement,1
+understanding concepts half battle physics,1
+half math,1
+stumbling block new physics students trying wade math physics also trying understand associated concepts,1
+struggle may lead misconceptions answers make sense,1
+concept mastered math far less confusing,1
+let ’ review see make sense displacement terms numbers equations,1
+calculate object 's displacement subtracting original position d0 final position df,1
+math terms means delta displacement equals final position minus original position,1
+final position initial position change displacement equal zero,1
+assign numbers and/or direction quantities need define axis positive negative direction,1
+also need define origin,1
+axis straight line home zero school positive direction,1
+left home drove opposite way school motion would negative direction,1
+would assigned negative value,1
+round-trip drive df d0 zero kilometers,1
+one way trip school df 5 kilometers d0 zero km,1
+5 kilometers,1
+displacement negative chose east positive west negative,1
+could also described displacement 1 km west,1
+calculating displacement direction mattered calculating distance direction matter,1
+problem would work way problem north–south y-direction,1
+displacement defined vector quantity describes change position object point space,1
+characterized magnitude direction making vector quantity,1
+displacement typically measured initial position final position direction pointing initial point final point,1
+magnitude displacement represents shortest distance initial final positions often calculated using distance formulas pythagorean theorem two three dimensions,1
+displacement closely related distance another important quantity physics,1
+distance measures total length traveled object along path displacement specifically refers change position starting point ending point regardless path taken,1
+result displacement equal less distance traveled depending path 's direction curvature,1
+scenarios object moves straight line displacement distance equal cases involving curved paths changes direction may differ,1
+displacement plays central role describing motion objects particles physics,1
+provides concise precise way characterize spatial changes undergone object motion,1
+tracking displacement object time physicists analyze velocity acceleration kinematic properties,1
+displacement vectors added subtracted represent complex motion scenarios changes direction velocity,1
+combination time measurements displacement enables creation position-time graphs calculation velocity acceleration profiles,1
+classical mechanics dynamics displacement serves fundamental quantity analyzing motion particles objects influence forces,1
+newton 's laws motion example relate displacement object forces acting upon providing framework predicting understanding behavior mechanical systems,1
+displacement vectors used describe translational motion objects three-dimensional space allowing precise calculation trajectories velocities accelerations,1
+engineering technology displacement measurements essential designing optimizing systems ranging vehicles machinery electronic devices structures,1
+displacement vectors integral part vector calculus multivariable analysis used describe changes position velocity acceleration multidimensional spaces,1
+mathematical frameworks displacement vectors manipulated using vector operations addition subtraction scalar multiplication,1
+displacement gradients fluxes play crucial role study vector fields fluid dynamics electromagnetism areas physics engineering,1
+displacement vector quantity meaning magnitude direction,1
+distinguishes scalar quantities like distance magnitude,1
+vector displacement follows rules vector algebra including vector addition subtraction,1
+example object moves point point b point c total displacement vector sum displacements b b c. study motion displacement analyzed different time intervals,1
+instantaneous displacement refers change position object specific instant time typically represented vector tangent object 's path moment,1
+average displacement hand overall change position given time interval calculated dividing total displacement duration interval,1
+displacement limited one-dimensional motion extends two-dimensional three-dimensional scenarios well,1
+two dimensions displacement vectors horizontal vertical components three dimensions three components along x z axes,1
+displacement multiple dimensions allows analysis complex motion patterns projectile motion motion objects curved paths,1
+displacement-time graphs graphical representations depict object 's displacement function time,1
+graphs displacement plotted vertical axis time plotted horizontal axis,1
+slope displacement-time graph represents object 's velocity steeper slopes indicating higher velocities,1
+additionally area displacement-time curve represents total displacement traveled object given time interval,1
+displacement fundamental concept fields kinematics dynamics serves key parameter describing motion objects influence forces,1
+kinematics displacement used calculate velocity acceleration providing insights objects move time,1
+dynamics displacement vectors essential applying newton 's laws motion relate forces acting object resulting motion displacement,1
+displacement measurements numerous practical applications across various fields including navigation engineering geosciences,1
+navigation gps devices use displacement vectors determine position movement vehicles pedestrians,1
+engineering displacement sensors used measure movement mechanical components machines structures,1
+geosciences displacement data help monitor seismic activity assess risk earthquakes landslides,1
+object moving along straight line point point b undergoes displacement equal vector difference final position b initial position,1
+instance car traveling along highway moves 100 meters east starting point resulting displacement +100 meters eastward direction,1
+projectile baseball launched rocket experiences displacement moves air influence gravity,1
+flight projectile undergoes horizontal displacement due initial velocity vertical displacement due effect gravity,1
+example cannonball fired angle experiences horizontal vertical displacements travels air hitting ground,1
+object undergoing circular motion planet orbiting star car navigating curved track experiences displacement despite moving straight line,1
+displacement vector points object 's initial position final position tracing curved path follows,1
+instance satellite orbiting earth experiences displacement completes orbit around planet despite circular trajectory,1
+oscillatory vibrational motion objects undergo back-and-forth displacement around central position equilibrium point,1
+example pendulum swinging back forth exhibits displacement moves one extreme position passing equilibrium position,1
+waves sound waves water waves electromagnetic waves propagate medium causing particles undergo displacement,1
+transverse wave particles medium oscillate perpendicular direction wave propagation resulting displacement perpendicular wave 's motion,1
+instance water wave travels across pond water particles move experiencing displacement perpendicular direction wave travel,1
+solid material spring rubber band subjected force undergoes displacement due elastic deformation,1
+displacement material proportional applied force described hooke 's law elastic materials,1
+example stretching rubber band causes elongate resulting displacement along length proportional applied force,1

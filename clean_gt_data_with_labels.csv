@@ -1,0 +1,356 @@
+sentence,label
+cat jumped onto windowsill,2
+prefer tea coffee mornings,2
+going concert tomorrow,2
+sunset painted sky shades orange pink,2
+favorite color turquoise,2
+finish reading book yet,2
+love listening jazz music rainy days,2
+smell freshly baked bread fills air,2
+ever paris,2
+need buy new shoes work,2
+ocean waves crash shore,2
+lets go hike weekend,2
+flowers garden blooming beautifully,2
+see shooting star last night,2
+cant wait summer vacation,2
+phone battery almost dead,2
+whats favorite movie genre,2
+traffic highway terrible right,2
+im thinking starting new hobby,2
+tried new restaurant downtown,2
+snow melting spring finally,2
+believe aliens,2
+im feeling sleepy lunch,2
+smell freshcut grass reminds childhood,2
+need organize closet weekend,2
+lets plan beach day next saturday,2
+love sound rain falling roof,2
+ever seen double rainbow,2
+cant find keys anywhere,2
+favorite holiday halloween,2
+im craving chocolate chip cookies right,2
+mountains covered snow time year,2
+hear new song radio,2
+im excited new season favorite tv show,2
+im terrible remembering peoples names,2
+lets go stargazing tonight,2
+need buy stamps letters,2
+smell fresh laundry comforting,2
+wish could speak another language fluently,2
+ever skydiving,2
+im planning road trip summer,2
+smell barbecue always makes hungry,2
+need renew library card,2
+want learn play piano someday,2
+leaves changing colors fall,2
+need schedule dentist appointment,2
+lets go walk park,2
+im terrible cooking love eat,2
+im considering adopting pet shelter,2
+ever tried rock climbing,2
+smell fresh coffee morning invigorating,2
+love watching thunderstorms indoors,2
+im saving vacation italy,2
+im allergic shellfish cant eat sushi,2
+lets plan picnic countryside,2
+favorite childhood memory going beach family,2
+im terrible remembering birthdays,2
+want visit seven wonders world someday,2
+ever hot air balloon ride,2
+im thinking redecorating bedroom,2
+smell sunscreen reminds summer vacations,2
+prefer reading physical books ebooks,2
+lets go ice skating rink downtown,2
+im excited new star wars movie coming,2
+im terrible singing love karaoke,2
+want learn paint watercolors,2
+sound laughter always brightens day,2
+need buy new pair sunglasses beach,2
+im thinking starting vegetable garden,2
+smell barbecue reminds summer cookouts,2
+love going farmers market weekends,2
+lets plan trip zoo next weekend,2
+favorite season spring flowers,2
+im terrible parallel parking,2
+im excited next marvel movie come,2
+need schedule haircut appointment,2
+want learn knit scarf,2
+smell rain asphalt nostalgic,2
+lets go apple picking orchard,2
+im terrible remembering directions,2
+im craving big bowl ramen noodles right,2
+love watching documentaries space,2
+want learn salsa dance,2
+smell fresh basil reminds italy,2
+im planning bake cake friends birthday,2
+need buy new umbrella rainy season,2
+lets plan weekend getaway mountains,2
+favorite dessert cheesecake raspberry sauce,2
+im terrible playing sports love watch,2
+im excited next season favorite podcast,2
+want learn make sushi home,2
+smell freshbaked bread reminds home,2
+im planning plant tree backyard,2
+im terrible remembering phone numbers,2
+im excited next book favorite series come,2
+want learn calligraphy,2
+smell barbecue reminds summer cookouts,2
+im planning visit grandparents next weekend,2
+im terrible fixing things around house,2
+im excited next season favorite tv show start,2
+want learn make pottery wheel,2
+smell fresh roses fills room,2
+im planning visit museum downtown next saturday,2
+im terrible drawing want practice,2
+im excited next concert park,2
+want learn woodworking,2
+smell fresh pine trees refreshing,2
+im planning visit new coffee shop downtown next saturday,2
+im terrible swimming want take lessons,2
+im excited next movie favorite franchise,2
+sky clear stars twinkled overhead,2
+danced gracefully across stage captivating audience,2
+aroma freshly baked cookies filled kitchen,2
+rode bike winding forest trails,2
+sound laughter echoed park,2
+painted vivid sunset canvas,2
+old oak tree provided shade hot summer days,2
+sipped coffee watching sunrise,2
+waves crashed rocky shoreline,2
+children giggled played backyard,2
+hummed tune washing dishes,2
+aroma freshly cut grass filled air,2
+whistled cheerful melody walked street,2
+admired intricate details stained glass window,2
+smell rain lingered air storm,2
+practiced guitar chords late night,2
+chirping birds signaled arrival spring,2
+gazed window lost thought,2
+smell cinnamon spices wafted bakery,2
+marveled colorful display flowers garden,2
+soft glow candlelight illuminated room,2
+wrapped warm blanket chilly evenings,2
+sound crickets chirping filled evening air,2
+tossed frisbee back forth dog,2
+smell pine trees reminded camping trips,2
+closed eyes listened sound ocean,2
+gentle rustle leaves soothed mind,2
+skipped stones across surface pond,2
+smell freshly brewed coffee woke morning,2
+twirled dress feeling like princess,2
+crackling campfire provided warmth cold nights,2
+doodled margins notebook class,2
+aroma barbecue lingered backyard,2
+smiled watched clouds drift,2
+scent lavender calmed nerves,2
+skipped sidewalk full energy,2
+laughter children playing echoed neighborhood,2
+picked wildflowers field,2
+aroma baking bread filled kitchen,2
+sat porch swing enjoying cool breeze,2
+sound distant train whistle filled night,2
+curled good book fireplace,2
+scent freshly brewed tea filled room,2
+stargazed rooftop mesmerized constellations,2
+soft patter rain roof soothing,2
+danced rain feeling alive,2
+smell freshly mown hay permeated air,2
+lounged hammock enjoying lazy afternoon,2
+laughter friends gathered around bonfire warmed heart,2
+wandered forest exploring hidden paths,2
+scent roses drifted garden,2
+whistled tune walking park,2
+crackling leaves underfoot signaled arrival autumn,2
+watched sunset top hill,2
+aroma chocolate chip cookies baking made mouth water,2
+played fetch dog backyard,2
+sound waves crashing shore hypnotic,2
+sang along favorite song radio,2
+scent freshbaked pie filled kitchen,2
+skipped rocks across surface lake,2
+laughter children playing echoed playground,2
+closed eyes listened rustling leaves,2
+aroma freshly brewed coffee filled cafe,2
+watched sunrise beach,2
+scent pine needles filled forest,2
+twirled dress feeling carefree,2
+sound cicadas filled warm summer evening,2
+doodled sketches notebook meetings,2
+smell cinnamon spices filled air,2
+smiled watched birds flit branch branch,2
+crackling campfire provided warmth chilly nights,2
+lounged hammock reading book,2
+laughter friends gathered around table brought joy,2
+skipped sidewalk humming tune,2
+scent freshly baked cookies filled house,2
+watched clouds drift lazily across sky,2
+aroma freshly brewed coffee woke morning,2
+danced rain feeling alive free,2
+sound distant train whistle filled night air,2
+stargazed rooftop lost thought,2
+soft patter rain roof soothing,2
+curled blanket fireplace,2
+scent lavender filled room calming nerves,2
+wandered forest exploring hidden trails,2
+laughter children playing park brought smile face,2
+picked wildflowers field weaving crown,2
+aroma baking bread filled kitchen warmth,2
+sat porch swing enjoying cool evening breeze,2
+crackling leaves underfoot signaled arrival autumn,2
+watched sunset top hill feeling peace,2
+scent freshly mown grass wafted air,2
+played fetch dog backyard sun warming skin,2
+laughter children playing echoed neighborhood filling joy,2
+closed eyes listened rustling leaves feeling connected nature,2
+aroma freshly brewed coffee filled cafe enticing passersby inside,2
+watched sunrise beach colors painting sky,2
+scent pine needles filled forest invigorating senses,2
+twirled dress feeling carefree happy,2
+sound cicadas filled warm summer evening symphony nature,2
+doodled sketches notebook meetings lost world,2
+smell cinnamon spices filled air reminding home,2
+smiled watched birds flit branch branch songs filling air,2
+crackling campfire provided warmth chilly nights flames dancing darkness,2
+lounged hammock reading book afternoon sun dappling skin,2
+laughter friends gathered around table brought joy camaraderie,2
+skipped sidewalk humming tune heart light carefree,2
+scent freshly baked cookies filled house drawing everyone kitchen,2
+watched clouds drift lazily across sky everchanging shapes mesmerizing,2
+aroma freshly brewed coffee woke morning comforting ritual start day,2
+danced rain feeling alive free droplets cooling skin,2
+sound distant train whistle filled night air lonesome yet familiar sound,2
+stargazed rooftop lost thought twinkling stars source wonder,2
+soft patter rain roof soothing lullaby eased sleep,2
+curled blanket fireplace crackling flames casting warm glow,2
+scent lavender filled room calming nerves helping relax,2
+wandered forest exploring hidden trails rustling leaves guiding way,2
+laughter children playing park brought smile face innocence infectious,2
+picked wildflowers field weaving crown symbol beauty nature,2
+aroma baking bread filled kitchen warmth comforting smell reminded home,2
+sat porch swing went walk park morning,2
+sky clear sun shining brightly,2
+stopped smell flowers along way,2
+birds chirping trees,2
+sat bench watched ducks pond,2
+afterwards went cafe ordered cup coffee,2
+barista greeted smile,2
+took coffee outside enjoyed warm weather,2
+people jogging walking dogs,2
+listened music headphones strolled,2
+saw squirrel scurrying tree,2
+waved neighbor passed house,2
+noticed new mural painted building,2
+colors vibrant eyecatching,2
+took picture mural phone,2
+stopped bookstore browsed shelves,2
+bought novel favorite author,2
+plan read later tonight bed,2
+walked home admired architecture houses,2
+old charming others modern sleek,2
+saw children playing park playground,2
+laughter filled air brought smile face,2
+thought childhood memories playing park,2
+felt grateful simple joys life,2
+got home made sandwich lunch,2
+ate sitting porch watching world go,2
+felt content peace,2
+decided take nap afternoon,2
+curled couch cozy blanket,2
+drifted sleep sound birds chirping outside,2
+dreamed faroff places grand adventures,2
+woke sun setting,2
+sky painted shades pink orange,2
+watched sunset window,2
+felt grateful another beautiful day,2
+made cup tea settled book,2
+read late night,2
+finally finished novel felt satisfied,2
+brushed teeth changed pajamas,2
+climbed bed closed eyes,2
+fell asleep smile face,2
+dreamed possibilities tomorrow might bring,2
+woke feeling refreshed ready start day,2
+stretched yawned got bed,2
+made pot coffee wake,2
+sat kitchen table checked email,2
+replied messages made todo list day,2
+decided go run breakfast,2
+put running shoes headed door,2
+jogged neighborhood enjoying cool morning air,2
+waved neighbor passed house,2
+ran past park playground,2
+saw group kids playing soccer field,2
+smiled remembered playing soccer child,2
+finished run returned home feeling energized,2
+made smoothie breakfast,2
+blended together bananas strawberries spinach,2
+poured smoothie glass took sip,2
+delicious refreshing,2
+sat kitchen table enjoyed breakfast,2
+checked news phone ate,2
+read current events world affairs,2
+felt grateful informed world around,2
+decided spend day exploring city,2
+packed backpack snacks water,2
+put comfortable shoes headed door,2
+walked streets taking sights sounds,2
+visited museums galleries parks,2
+stopped cafe lunch ordered sandwich,2
+sat outside peoplewatched ate,2
+saw people walks life passing,2
+felt grateful live diverse vibrant city,2
+continued exploration late afternoon,2
+walked feet tired stomach growling,2
+decided head home rest bit,2
+took long hot shower changed comfy clothes,2
+made cup tea sat couch,2
+turned tv watched movie,2
+laughed cried followed story,2
+felt grateful simple pleasures life,2
+cooked dinner enjoyed quiet evening home,2
+read book listened music,2
+curled bed drifted sleep,2
+dreamed faroff places grand adventures,2
+woke feeling refreshed ready start day,2
+stretched yawned got bed,2
+made pot coffee wake,2
+sat kitchen table checked email,2
+replied messages made todo list day,2
+decided go run breakfast,2
+put running shoes headed door,2
+jogged neighborhood enjoying cool morning air,2
+waved neighbor passed house,2
+ran past park playground,2
+saw group kids playing soccer field,2
+smiled remembered playing soccer child,2
+finished run returned home feeling energized,2
+made smoothie breakfast,2
+blended together bananas strawberries spinach,2
+poured smoothie glass took sip,2
+delicious refreshing,2
+sat kitchen table enjoyed breakfast,2
+checked news phone ate,2
+read current events world affairs,2
+felt grateful informed world around,2
+decided spend day exploring city,2
+packed backpack snacks water,2
+put comfortable shoes headed door,2
+walked streets taking sights sounds,2
+visited museums galleries parks,2
+stopped cafe lunch ordered sandwich,2
+sat outside peoplewatched ate,2
+saw people walks life passing,2
+felt grateful live diverse vibrant city,2
+continued exploration late afternoon,2
+walked feet tired stomach growling,2
+decided head home rest bit,2
+took long hot shower changed comfy clothes,2
+made cup tea sat couch,2
+turned tv watched movie,2
+laughed cried followed story,2
+felt grateful simple pleasures life,2
+cooked dinner enjoyed quiet evening home,2
+read book listened music,2
+curled bed drifted sleep,2
+dreamed faroff places grand adventures,2
